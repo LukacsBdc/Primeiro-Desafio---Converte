@@ -64,6 +64,28 @@ button {
 
 }
 
+footer {
+    background-color: rgba(0, 0, 0, 1);
+    color: white;
+    border: none;
+    opacity: 0.6;
+    padding: 20px;
+    text-align: center;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    height: 10px;
+}
+
+footer a:hover {
+    color: white;
+    text-decoration: underline;
+    height: 10px;
+}
+
 button:hover {
     opacity: 0.8;
 }
